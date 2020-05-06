@@ -16,6 +16,10 @@ MySecondTest
     [Tags]    reg1
     Log  Hello World second test 
     
+MyThirdTest
+    [Tags]    Thirdtag
+    Log   Third test 
+    
 FIRSTSELENIUMTEST
     [Tags]     search
     Open Browser      https://google.com     chrome
