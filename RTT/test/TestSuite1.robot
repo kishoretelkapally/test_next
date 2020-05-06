@@ -10,7 +10,11 @@ Default Tags    Sanity
 *** Test Cases ***
 MyFirstTest
     [Tags]    smoke
-    Log  Hello World
+    Log  Hello World 
+    
+MySecondTest
+    [Tags]    reg1
+    Log  Hello World second test 
     
 FIRSTSELENIUMTEST
     [Tags]     search
